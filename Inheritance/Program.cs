@@ -17,7 +17,7 @@ namespace Inheritance
                 HasFeathers = true,
                 IsWarmBlooded = true,
                 Type = "electric",
-                Wings = 2
+                Wings = 2,
             };
 
             Console.WriteLine($"{zapdos.Name} is an {zapdos.Type} pokemon that is {zapdos.Age} years old and has {zapdos.Legs} legs and {zapdos.Wings}wings.");
